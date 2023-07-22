@@ -28,5 +28,3 @@ Page untuk ubah dan hapus data
 Tampilan data telah di perbarui
 
 <img src="https://github.com/zahir333/TokoKomputerApp/blob/main/screenshoot/7.png">
-
-<img src="https://github.com/zahir333/TokoKomputerApp/blob/main/screenshoot/7.png">
